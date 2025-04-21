@@ -125,7 +125,7 @@
   
   @media (max-width: 768px) {
     .nav-links {
-      flex-direction: column;
+      
       background: #222;
       padding: 1rem;
     }
