@@ -19,4 +19,4 @@ This is my personal portfolio website built using **HTML**, **CSS**, and **JavaS
 1. **Clone the Repository**  
    You can clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/adityaraj98769/PORTFOLIO/
+  https://adityaraj98769.github.io/PORTFOLIO/
